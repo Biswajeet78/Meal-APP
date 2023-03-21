@@ -37,7 +37,7 @@ body {
 
 /* meal card */
 #card {
-    background-color: cyan;
+    background-color: rgb(162, 0, 249);
     padding: 10px;
     color: white;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
@@ -53,7 +53,7 @@ body {
     width: 100%;
     padding: 20px;
     border-radius: 20px;
-    background-color: cyan;
+    background-color: rgb(162, 0, 249);
 }
 #meal-header{
     width: 70%;
