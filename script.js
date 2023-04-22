@@ -11,7 +11,6 @@ async function fetchMealsFromApi(url,value) {
 }
 
 
-
 // it show's all meals card in main acording to search input value
 function showMealList(){
     let inputValue = document.getElementById("my-search").value;
